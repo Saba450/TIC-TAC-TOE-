@@ -9,10 +9,9 @@ h1{
     font-style: oblique;
 }
 body{
-    background-image: URL("pexels-pixabay-326055.jpg");
+    background-image: url("background.jpg");
             background-size: cover;
-            background-position: center;            
-        min-height: 100vh;    
+            background-position: center;              
     text-align: center;
 }
 .container{
